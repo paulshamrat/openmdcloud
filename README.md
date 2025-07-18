@@ -11,10 +11,10 @@ Welcome to OpenMDCloud! This repository provides ready-to-use Jupyter notebooks 
 
 ## 📒 Notebooks
 
-| Status | Notebook | Description | Colab Link |
-|--------|----------|-------------|------------|
-| ✅ Simulation | `openmm_100ns.ipynb` | 100 ns OpenMM workflow | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulshamrat/openmdcloud/blob/main/openmm_100ns.ipynb) |
-| ✅ Simulation | `openmm_1ns.ipynb` | 1 ns OpenMM workflow | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulshamrat/openmdcloud/blob/main/openmm_1ns.ipynb) |
+| Sl | Description | Status | Notebook | Date Added | Colab Link |
+|----|-------------|--------|----------|------------|------------|
+| 1 | 100 ns OpenMM workflow | ✅ Simulation | `openmm_100ns.ipynb` | 2025-07-18 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulshamrat/openmdcloud/blob/main/openmm_100ns.ipynb) |
+| 2 | 1 ns OpenMM workflow | ✅ Simulation | `openmm_1ns.ipynb` | 2025-07-18 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulshamrat/openmdcloud/blob/main/openmm_1ns.ipynb) |
 
 ---
 
